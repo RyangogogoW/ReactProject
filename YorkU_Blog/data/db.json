@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "The Top 10 Destinations to Visit in Europe",
+      "body": "Europe is full of beautiful destinations to explore...",
+      "author": "John Smith"
+    },
+    {
+      "id": 2,
+      "title": "How to Cook the Perfect Steak",
+      "body": "Cooking a steak to perfection can be a challenge, but with these tips and tricks...",
+      "author": "Sara Johnson"
+    },
+    {
+      "id": 3,
+      "title": "The Benefits of Meditation for Stress Relief",
+      "body": "Meditation is a powerful tool for reducing stress and improving overall well-being...",
+      "author": "David Lee"
+    },
+    {
+      "id": 4,
+      "title": "10 Tips for Running Your First Marathon",
+      "body": "Running a marathon can be a daunting challenge, but with these tips...",
+      "author": "Emily Kim"
+    },
+    {
+      "id": 5,
+      "title": "The Impact of Social Media on Mental Health",
+      "body": "Social media can have both positive and negative effects on mental health...",
+      "author": "Alex Johnson"
+    }
+  ]
+}
